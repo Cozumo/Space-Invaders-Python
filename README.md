@@ -1,3 +1,3 @@
 # Space-Invaders-Python
 
-Implemented using pygame
+Implemented using pygame lib
